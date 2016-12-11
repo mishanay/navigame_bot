@@ -9,7 +9,7 @@ import json
 
 
 
-bot = telebot.TeleBot(token)
+bot = telebot.TeleBot(token) # The token has been removed for security reasons
 #users_inf = {}
 #coord = {}
 phrazes = [
